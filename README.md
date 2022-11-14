@@ -7,6 +7,6 @@ Team Leader : Balaji K
 
 Team member 1 : Nishanth N
 
-Team member 2 : 
+Team member 2 : Hemanthraj
 
-Team member 3 : TSS Praja
+Team member 3 : Hirthick Roshan
