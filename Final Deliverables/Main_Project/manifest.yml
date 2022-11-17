@@ -1,0 +1,8 @@
+---
+applications:
+
+ 
+ - name: Python Flask App RAGEA 2022-11-13
+   random-route: true
+   memory: 512M
+   disk_quota: 1.5G

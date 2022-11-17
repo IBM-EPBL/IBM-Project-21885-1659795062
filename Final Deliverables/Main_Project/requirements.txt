@@ -1,0 +1,15 @@
+Flask
+Werkzeug
+joblib
+flask_bootstrap
+flask_login
+flask_sqlalchemy
+flask_wtf
+scikit_learn
+WTForms
+gunicorn
+email_validator
+pandas
+requests
+Cloudant
+gevent
