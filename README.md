@@ -11,6 +11,6 @@ Team Leader : Balaji K
 
 Team member 1 : Nishanth N
 
-Team member 2 : Hemanthraj
+Team member 2 : Hemanthraj K
 
-Team member 3 : Hirthick Roshan
+Team member 3 : Hirthick Roshan R
