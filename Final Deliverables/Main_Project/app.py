@@ -201,7 +201,7 @@ def predictliver():
     if int(result) == 1:
         prediction = "Patient has a high risk of Liver Disease, please consult your doctor immediately"
     else:
-        prediction = "Patient has a low risk of Kidney Disease"
+        prediction = "Patient has a low risk of Liver Disease"
     return render_template("liver_result.html", prediction_text=prediction,li=to_predict_list)
 
 
@@ -215,7 +215,7 @@ port =os.getenv('VCAP_APP_PORT','8080')
 
 
 if __name__ == "__main__":
-    #app.run(debug=True)
-    app.secret_key=os.urandom(12)
+    #app.run(debug=True) # To run the app in local host
+    app.secret_key=os.urandom(12) # To run the app in IBM Cloud
     app.run(debug=True,host='0.0.0.0',port=port)
 
